@@ -1,1 +1,1 @@
-# computer_vision_projects
+# This repository contains my Computer vision projects
